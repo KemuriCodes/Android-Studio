@@ -1,3 +1,13 @@
 <resources>
-    <string name="app_name">bmi</string>
+    <string name="app_name">Kalkulator BMI</string>
+    <string name="weight">Waga</string>
+    <string name="height">Wzrost</string>
+    <string name="calculateBMI">Policz BMI</string>
+    <string name="very_big_underweight">Bardzo duża niedowaga!!!</string>
+    <string name="big_underweight">Duża niedowaga</string>
+    <string name="underweight">Niedowaga</string>
+    <string name="normal">Normalna waga</string>
+    <string name="overweight">Nadwaga</string>
+    <string name="big_overweight">Duża nadwaga</string>
+    <string name="very_big_overweight">Bardzo duża nadwaga!!</string>
 </resources>
